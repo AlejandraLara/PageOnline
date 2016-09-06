@@ -1,0 +1,17 @@
+.h1{
+	font-color:white;
+}
+*{
+
+	font-family: "century gothic";
+	font-color: white;
+}
+body{
+	background-image: url("../img/sky.jpg");
+	background-size: cover;
+	width:900px; margin: 0px auto;
+	text-align: center;
+	background-color: #F07898;
+	color: black;
+
+}
